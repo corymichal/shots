@@ -1,4 +1,4 @@
-This is a very simple nmap script to attempt to take a screenshot of web apps with phantomjs on all open tcp ports except 21,22,53 and 135.
+This is a very simple nmap script to attempt to take a screenshot of web apps with phantomjs on all open tcp ports except 21,22 and 53.
 
 How to make this work.
 1) Install nmap
